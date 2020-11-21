@@ -1,0 +1,16 @@
+.DS_Store
+.idea
+ch01/*.py
+ch02/*.py
+*.h5
+*.hdf5
+*.iml
+logs
+models
+ch04/logs
+**/__pycache__/
+data
+**/*.log
+wandb
+ch07/training*checkpoints
+**/.ipynb_checkpoints/
